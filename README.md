@@ -149,15 +149,6 @@ Hypertension-Control-Treatment-Effectiveness-Analysis
 
 ---
 
-## 🚀 Future Improvements
-
-- Develop a predictive machine learning model for blood pressure treatment outcomes.
-- Build an interactive Power BI dashboard.
-- Deploy the dashboard as a web application.
-- Expand the analysis with larger healthcare datasets.
-
----
-
 ## 📖 What I Learned
 
 Working on this project strengthened my ability to:
@@ -169,6 +160,15 @@ Working on this project strengthened my ability to:
 - Translate raw data into actionable business insights.
 
 This project reinforced the importance of combining technical analysis with effective communication to support informed decision-making.
+
+---
+
+## 🚀 Future Improvements
+
+- Develop a predictive machine learning model for blood pressure treatment outcomes.
+- Build an interactive Power BI dashboard.
+- Deploy the dashboard as a web application.
+- Expand the analysis with larger healthcare datasets.
 
 ---
 
