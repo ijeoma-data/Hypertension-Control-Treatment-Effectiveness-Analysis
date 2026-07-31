@@ -1,5 +1,14 @@
 # 🩺 Hypertension Treatment Effectiveness Analysis using SQL Server & Microsoft Excel
 
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-orange?style=for-the-badge)
+![Healthcare](https://img.shields.io/badge/Healthcare-Analytics-blue?style=for-the-badge)
+![Dashboard](https://img.shields.io/badge/Dashboard-Interactive-success?style=for-the-badge)
+![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-purple?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
 A healthcare analytics project using **SQL Server** and **Microsoft Excel** to evaluate hypertension treatment outcomes through exploratory data analysis, KPI development, and an interactive Excel dashboard.
 
 ---
