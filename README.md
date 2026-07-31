@@ -1,4 +1,4 @@
-# 🩺 Hypertension Control & Treatment Effectiveness Analysis
+# 🩺 Hypertension Treatment Effectiveness Analysis using SQL Server & Microsoft Excel
 
 A healthcare analytics project using **SQL Server** and **Microsoft Excel** to evaluate hypertension treatment outcomes through exploratory data analysis, KPI development, and an interactive Excel dashboard.
 
