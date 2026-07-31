@@ -181,6 +181,7 @@ This project reinforced the importance of combining technical analysis with effe
 📍 Nigeria
 
 🔗 LinkedIn: www.linkedin.com/in/ijeoma-okeke-53123829b
+💻 **GitHub:** https://github.com/ijeoma-data
 
 ---
 
